@@ -25,6 +25,7 @@ document.getElementById('btn').addEventListener('click', addGS);
 
 /****
  * 
+ * gscode script to add to gsheet
  * 
  * function doPost(e){
   const body = e.postData.contents;
